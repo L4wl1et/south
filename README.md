@@ -63,7 +63,7 @@ POST /api/games/{gameId}/registrations
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/south.git
+git clone https://github.com/L4wl1et/south.git
 cd south
 ```
 
